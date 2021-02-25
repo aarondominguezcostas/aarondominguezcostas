@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+```text
+C++    56 mins         █████████████▒░░░░░░░░░░░   53.35 % 
+C      40 mins         █████████▓░░░░░░░░░░░░░░░   38.06 % 
+GLSL   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+```
 <!--END_SECTION:waka-->
