@@ -5,6 +5,8 @@ Hola! My name is Aaron Dominguez Costas and I'm a Computer Science student at th
 I really enjoy coding and facing challenging problems. I hope you find something useful in my repos. <3 
 
 
+
+# This week stats 🔥
 <!--START_SECTION:waka-->
 ```text
 C++    56 mins         █████████████▒░░░░░░░░░░░   53.35 % 
