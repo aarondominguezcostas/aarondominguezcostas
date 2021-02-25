@@ -21,3 +21,8 @@ C      40 mins         █████████▓░░░░░░░░░
 GLSL   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 <!--END_SECTION:waka-->
+
+
+```html
+<figure><embed src="https://wakatime.com/share/@96c62aa6-e8a5-40d9-b713-e55e10034770/6614fa29-8621-4fcd-9d26-4ce4b2ebec9f.svg"></embed></figure>
+```
