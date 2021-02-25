@@ -6,7 +6,7 @@ I really enjoy coding and facing challenging problems. I hope you find something
 
 
 
-# This week stats 🔥
+### This week stats 🔥
 <!--START_SECTION:waka-->
 ```text
 C++    56 mins         █████████████▒░░░░░░░░░░░   53.35 % 
