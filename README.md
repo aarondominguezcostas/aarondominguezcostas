@@ -6,10 +6,10 @@ I really enjoy coding and facing challenging problems. I hope you find something
 
 My goal this year is to start deploying more projects and getting more active on GitHub 💻
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondominguezcostas&?theme=dracula&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondominguezcostas&?theme=dracula&show_icons=true&theme=dark)
 
 ### This week stats 🔥
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarondominguezcostas&show_icons=true&theme=radical)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarondominguezcostas&show_icons=true&theme=dark)
 
 
 
