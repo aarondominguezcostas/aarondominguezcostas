@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 Hola! My name is Aaron Dominguez Costas and I'm a Computer Science student at the University Of Santiago de Compostela.
