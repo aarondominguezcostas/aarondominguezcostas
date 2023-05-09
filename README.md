@@ -5,9 +5,3 @@ Hola! My name is Aaron Dominguez Costas and I'm a Computer Science student at th
 I really enjoy coding and facing challenging problems. I hope you find something useful in my repos. <3 
 
 My goal this year is to start deploying more projects and getting more active on GitHub 💻
-
-### This week stats 🔥
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarondominguezcostas&show_icons=true&theme=midnight-purple)
-
-
-
